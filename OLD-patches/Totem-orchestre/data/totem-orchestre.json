@@ -1,0 +1,81 @@
+{
+	"pattrstorage" : 	{
+		"name" : "totem-orchestre.json",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"mv-haut-1::1-polarity" : [ 0.0 ],
+					"mv-haut-1::1-minmax::1-max" : [ 0.633858267716535 ],
+					"mv-haut-1::1-minmax::1-min" : [ 0.704724409448819 ],
+					"mv-haut-2::2-polarity" : [ 0.0 ],
+					"mv-haut-2::2-minmax::2-max" : [ 0.263779527559056 ],
+					"mv-haut-2::2-minmax::2-min" : [ 0.137795275590552 ],
+					"mv-haut-3::3-polarity" : [ 0.0 ],
+					"mv-haut-3::3-minmax::3-max" : [ 0.338582677165355 ],
+					"mv-haut-3::3-minmax::3-min" : [ 0.157480314960631 ],
+					"mv-haut-4::4-polarity" : [ 0.0 ],
+					"mv-haut-4::4-minmax::4-max" : [ 0.594488188976378 ],
+					"mv-haut-4::4-minmax::4-min" : [ 0.759842519685039 ],
+					"mv-haut-5::5-polarity" : [ 0.0 ],
+					"mv-haut-5::5-minmax::5-max" : [ 0.724409448818897 ],
+					"mv-haut-5::5-minmax::5-min" : [ 0.795275590551181 ],
+					"mv-haut-6::6-polarity" : [ 0.0 ],
+					"mv-haut-6::6-minmax::6-max" : [ 0.464566929133858 ],
+					"mv-haut-6::6-minmax::6-min" : [ 0.393700787401575 ],
+					"mv-bas-1::7-polarity" : [ 0.0 ],
+					"mv-bas-1::7-minmax::7-max" : [ 0.52755905511811 ],
+					"mv-bas-1::7-minmax::7-min" : [ 0.645669291338582 ],
+					"mv-bas-2::8-polarity" : [ 0.0 ],
+					"mv-bas-2::8-minmax::8-max" : [ 0.515748031496063 ],
+					"mv-bas-2::8-minmax::8-min" : [ 0.65748031496063 ],
+					"mv-bas-3::9-polarity" : [ 0.0 ],
+					"mv-bas-3::9-minmax::9-max" : [ 0.381889763779528 ],
+					"mv-bas-3::9-minmax::9-min" : [ 0.578740157480315 ],
+					"mv-bas-4::10-polarity" : [ 0.0 ],
+					"mv-bas-4::10-minmax::10-max" : [ 0.440944881889764 ],
+					"mv-bas-4::10-minmax::10-min" : [ 0.637795275590551 ],
+					"mv-bas-5::11-polarity" : [ 0.0 ],
+					"mv-bas-5::11-minmax::11-max" : [ 0.389763779527559 ],
+					"mv-bas-5::11-minmax::11-min" : [ 0.55511811023622 ],
+					"mv-bas-6::12-polarity" : [ 0.0 ],
+					"mv-bas-6::12-minmax::12-max" : [ 1.0 ],
+					"mv-bas-6::12-minmax::12-min" : [ 0.708661417322835 ],
+					"tambour-1::13-polarity" : [ 0.0 ],
+					"tambour-1::13-minmax::13-max" : [ 0.570866141732283 ],
+					"tambour-1::13-minmax::13-min" : [ 0.492125984251969 ],
+					"tambour-2::14-polarity" : [ 0.0 ],
+					"tambour-2::14-minmax::14-max" : [ 0.5 ],
+					"tambour-2::14-minmax::14-min" : [ 0.374015748031496 ],
+					"tambour-3::15-polarity" : [ 0.0 ],
+					"tambour-3::15-minmax::15-max" : [ 0.318897637795276 ],
+					"tambour-3::15-minmax::15-min" : [ 0.208661417322835 ],
+					"tambour-4::16-polarity" : [ 0.0 ],
+					"tambour-4::16-minmax::16-max" : [ 0.65748031496063 ],
+					"tambour-4::16-minmax::16-min" : [ 0.736220472440944 ],
+					"tambour-5::17-polarity" : [ 0.0 ],
+					"tambour-5::17-minmax::17-max" : [ 0.653543307086614 ],
+					"tambour-5::17-minmax::17-min" : [ 0.779527559055118 ],
+					"horn-1::18-polarity" : [ 0.0 ],
+					"horn-1::18-minmax::18-max" : [ 0.574803149606299 ],
+					"horn-1::18-minmax::18-min" : [ 0.212598425196851 ],
+					"horn-2::19-polarity" : [ 0.0 ],
+					"horn-2::19-minmax::19-max" : [ 0.803149606299212 ],
+					"horn-2::19-minmax::19-min" : [ 0.622047244094488 ],
+					"vavlves::valve-1" : [ 0.0 ],
+					"vavlves::valve-2" : [ 0.0 ],
+					"vavlves::valve-3" : [ 0.0 ],
+					"vavlves::air-1" : [ 0.0 ],
+					"vavlves::valve-4" : [ 0.0 ],
+					"vavlves::valve-5" : [ 0.0 ],
+					"vavlves::valve-6" : [ 0.0 ],
+					"vavlves::air-2" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
